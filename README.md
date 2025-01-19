@@ -1,4 +1,4 @@
-# JGarvey928 Excel/Access Property Management Project
+# JGarvey928 Excel-Access Property Management Project
 
 # To Run
 Run this simply open the EAPM.xlsm file. Then login in with...  
